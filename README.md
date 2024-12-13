@@ -1,2 +1,2 @@
 # Platonia-s-Dilemma
-decreasing the 1/20 
+**decreasing the 1/20**
